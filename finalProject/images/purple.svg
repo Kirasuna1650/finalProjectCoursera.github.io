@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="100%" height="100%" fill="#6b3b8a"/>
+  <g fill="#d9b3ff" opacity="0.7">
+    <path d="M0 220 C100 160 300 280 400 210 L400 300 L0 300 Z"/>
+  </g>
+  <text x="50%" y="50%" font-size="26" fill="#fff" text-anchor="middle" dominant-baseline="middle">Violet Strokes</text>
+</svg>
